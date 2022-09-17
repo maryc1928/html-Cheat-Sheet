@@ -1,0 +1,35 @@
+table,
+td{
+    border: 1px solid rgb(149, 88, 129);
+}
+
+thead,
+tfoot {
+    background-color: rgb(222, 114, 208);
+    color: rgb(31, 30, 30);
+}
+
+h1{
+    text-align: center;
+    font-family: "Dosis", sans-serif, serif;
+
+}
+
+.main{
+    margin: 20px;
+    font-family: "Dosis", sans-serif, serif;
+}
+
+.span {
+    margin: 20px;
+    font-family: "Dosis", sans-serif, serif;
+}
+
+h2{
+    text-decoration: underline;
+    font-family: "Dosis", sans-serif, serif;
+}
+body{
+    background-color: rgba(183, 181, 182, 0.837);
+}
+
